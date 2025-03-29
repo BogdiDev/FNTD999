@@ -38,6 +38,45 @@
             }
         ]
     },
+      "Creeper Bonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://87972667283690",
+        "Rarity": "Secret",
+        "PlacePrice": 4500,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 21,
+                "Damage": 2500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 5000,
+                "Range": 24,
+                "Damage": 3000,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 5500,
+                "Range": 25,
+                "Damage": 3500,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 6000,
+                "Range": 27,
+                "Damage": 4000,
+                "Cooldown": 1.2
+            }
+        ]
+    },
      "Skeleton Endo": {
         "Type": "Single",
         "Image": "rbxassetid://132804109026921",
