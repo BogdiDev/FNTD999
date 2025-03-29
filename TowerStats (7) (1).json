@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Skelly Endo": {
+        "Type": "Single",
+        "Image": "rbxassetid://132804109026921",
+        "Rarity": "Mythic",
+        "PlacePrice": 800,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 75,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 900,
+                "Range": 19,
+                "Damage": 90,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 110,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1100,
+                "Range": 23,
+                "Damage": 120,
+                "Cooldown": 0.3
+            }
+        ]
+    },
       "Minecraft Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://86251131354804",
