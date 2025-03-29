@@ -38,6 +38,45 @@
             }
         ]
     },
+      "Enderman Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://85538289357894",
+        "Rarity": "Apex",
+        "PlacePrice": 35000,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 9000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 40000,
+                "Range": 30,
+                "Damage": 13000,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 45000,
+                "Range": 35,
+                "Damage": 15000,
+                "Cooldown": 2.15
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 18000,
+                "Cooldown": 2
+            }
+        ]
+    },
        "Nurse Fredbear": {
         "Type": "Single",
         "Image": "rbxassetid://79880961928727",
