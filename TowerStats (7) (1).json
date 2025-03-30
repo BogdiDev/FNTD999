@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Neon Shadow Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://74349148526117",
+        "Rarity": "Secret",
+        "PlacePrice": 25000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 150,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 27500,
+                "Range": 19,
+                "Damage": 200,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 23,
+                "Damage": 240,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 35000,
+                "Range": 25,
+                "Damage": 300,
+                "Cooldown": 0.05
+            }
+        ]
+    },
       "Creeper Bonnie": {
         "Type": "Splash",
         "Image": "rbxassetid://87972667283690",
@@ -121,7 +160,7 @@
         "Image": "rbxassetid://86251131354804",
         "Rarity": "Secret",
         "PlacePrice": 9000,
-        "Max": 8,
+        "Max": 2,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
