@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Skibidi Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Secret",
+        "PlacePrice": 7500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 7500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 10000,
+                "Range": 24,
+                "Damage": 7500,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 8000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 20000,
+                "Range": 28,
+                "Damage": 8000,
+                "Cooldown": 2.4
+            }
+        ]
+    },
      "Neon Shadow Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://74349148526117",
