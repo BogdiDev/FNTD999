@@ -38,6 +38,51 @@
             }
         ]
     },
+     "Orange Guy Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://86647616772954",
+        "Rarity": "Secret",
+        "PlacePrice": 6500,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 3000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 7500,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 9000,
+                "Range": 30,
+                "Damage": 5000,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 10000,
+                "Range": 30,
+                "Damage": 5750,
+                "Cooldown": 2
+            },
+            {
+                "Price": 13500,
+                "Range": 35,
+                "Damage": 6450,
+                "Cooldown": 2
+            }
+        ]
+    },
      "Royal Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://120465852431519",
