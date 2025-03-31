@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Royal Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://120465852431519",
+        "Rarity": "Mythic",
+        "PlacePrice": 750,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 200,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 900,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 1100,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1250,
+                "Range": 24,
+                "Damage": 330,
+                "Cooldown": 0.5
+            }
+        ]
+    },
     "Old Man MLIS": {
         "Type": "AOE",
         "Image": "rbxassetid://80911801776155",
