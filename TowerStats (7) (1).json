@@ -38,6 +38,84 @@
             }
         ]
     },
+    "Fat Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://91254399691040",
+        "Rarity": "Secret",
+        "PlacePrice": 6000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 21,
+                "Damage": 2500,
+                "Cooldown": 1.6
+            },
+            {
+                "Price": 7900,
+                "Range": 23,
+                "Damage": 3000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 10000,
+                "Range": 24,
+                "Damage": 3250,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 3500,
+                "Cooldown": 1.4
+            }
+        ]
+    },
+        "Bald Man Consequences": {
+        "Type": "AOE",
+        "Image": "rbxassetid://122261687039185",
+        "Rarity": "Secret",
+        "PlacePrice": 23456,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 230,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 24567,
+                "Range": 25,
+                "Damage": 275,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 25678,
+                "Range": 28,
+                "Damage": 325,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 26789,
+                "Range": 30,
+                "Damage": 350,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Party Skibidi Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://89211433165857",
